@@ -1,0 +1,12 @@
+[package]
+name = "media-query-parse"
+version = "0.1.0"
+edition = "2024"
+description = "A pure-Rust parser for the CSS Media Queries grammar"
+license = "MIT"
+repository = "https://github.com/casoon/media-query-parse"
+readme = "README.md"
+keywords = ["css", "media-queries", "parser", "syntax", "grammar"]
+categories = ["parser-implementations", "web-programming"]
+
+[dependencies]
