@@ -1,4 +1,4 @@
-//! A pure-Rust parser for the CSS Media Queries grammar.
+//! A parser for the CSS Media Queries grammar, written in 100% safe Rust.
 //!
 //! Tokenizer (CSS Syntax Level 3) plus a Media Queries Level 4
 //! grammar/AST/parser, including the `<mf-range>` comparison syntax.

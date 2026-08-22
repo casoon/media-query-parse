@@ -1,7 +1,7 @@
 //! AST types for the Media Queries Level 4 grammar (`<media-query-list>`
 //! and below), as parsed by [`crate::parser`].
 //!
-//! Pure syntax/structure — see `CLAUDE.md`: this crate has no "matches
+//! Syntax and structure only — see `CLAUDE.md`: this crate has no "matches
 //! a real device/viewport" concept.
 //!
 //! Grammar reference: [Media Queries Level 4][spec] §3, which already
