@@ -18,7 +18,7 @@ web-platform-tests conformance cases. Public API is documented
 (`#![deny(missing_docs)]`) and marked `#[non_exhaustive]` where the
 grammar may grow.
 
-Intended crates.io name: `media-query-parse`. Not yet published.
+Published on crates.io as [`media-query-parse`](https://crates.io/crates/media-query-parse).
 
 ## Usage
 
