@@ -1,5 +1,17 @@
 # media-query-parse
 
+> **Dieses Repository ist stillgelegt (24.09.2026).** Das Crate lebt weiter, aber
+> die Quelle ist jetzt das Monorepo
+> **[casoon/barrierlab](https://github.com/casoon/barrierlab)** — dort liegt es
+> unter `crates/media-query-parse/`, mit der vollständigen Historie dieses Repositorys, neben
+> `html-conform`, das es benutzt.
+>
+> - **crates.io bleibt unverändert.** Was danach erscheint, kommt aus barrierlab.
+> - **Änderungen und Fehler** gehören dorthin. Hier wird nichts mehr gebaut.
+> - Doku: <https://casoon.github.io/barrierlab/>
+>
+> Der Text unten beschreibt den Stand bei der Stilllegung.
+
 A pure-Rust implementation of the [CSS Media Queries](https://www.w3.org/TR/mediaqueries-5/)
 grammar — parses a media query or media condition string and reports
 whether it is syntactically valid, without evaluating it against any
